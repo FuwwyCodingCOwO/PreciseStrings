@@ -1,1 +1,1 @@
-currently in testing phase
+`for testing only`
