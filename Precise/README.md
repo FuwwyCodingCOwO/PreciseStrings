@@ -1,3 +1,4 @@
+```
 namespace precise
     class precise
         constructors
@@ -21,3 +22,4 @@ namespace precise
                 get_number_as_string(); // returns the whole number as string
                 get_decimal_as_string(); //returns the decimal portion as string
                 get_int_as_string(); //returns the integer portion as string
+```
